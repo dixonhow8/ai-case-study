@@ -88,3 +88,13 @@ This would enhance Amazon Prime Video's market share of original programming and
 
 ## Technologies: 
 Leveraging video compression, encoding, and adaptive bitrate streaming (ABR) technologies would improve video quality.
+
+### Reference from AWS Blog:
+
+- *Title:* [AWS AI and Machine Learning Blog](https://aws.amazon.com/blogs/ai/)
+- *Description:* The AWS AI and Machine Learning Blog features articles, case studies, and technical insights related to AI and machine learning services offered by AWS.
+- *Sample Post:* [Introduction to Amazon SageMaker: A Fully Managed Machine Learning Service](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker/)
+- *Date Accessed:* [Date Accessed]
+
+
+
