@@ -1,4 +1,4 @@
-# ai-case-study
+# **ai-case-study**
 This repository is for the creation of case study for Module 1 assignment
 # Overview and Origin
 
@@ -84,17 +84,18 @@ Amazon is a global leader in e-commerce, cloud computing, and technology innovat
 Amazon could offer exclusive content and services similar to Netflix, Disney+, and Apple TV+.
 
 ## Benefits: 
-This would enhance Amazon Prime Video's market share of original programming and competitiveness.
+This would enhance Amazon Prime Video's market share of original programming and competitiveness. 
 
 ## Technologies: 
-Leveraging video compression, encoding, and adaptive bitrate streaming (ABR) technologies would improve video quality.
+Leveraging video compression, encoding, and adaptive bitrate streaming (ABR) technologies would improve video quality. 
 
 ### Reference from AWS Blog:
 
 - *Title:* [AWS AI and Machine Learning Blog](https://aws.amazon.com/blogs/ai/)
 - *Description:* The AWS AI and Machine Learning Blog features articles, case studies, and technical insights related to AI and machine learning services offered by AWS.
 - *Sample Post:* [Introduction to Amazon SageMaker: A Fully Managed Machine Learning Service](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker/)
-- *Date Accessed:* [Date Accessed]
+- *Date Accessed:* [5/11/2024]
+[Analyzing and Tagging Video for Optimal Ad Targeting and Placement](https://aws.amazon.com/blogs/media/analyzing-and-tagging-video-for-optimal-ad-targeting-and-placement/)
 
 
 
