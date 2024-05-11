@@ -3,16 +3,16 @@ This repository is for the creation of case study for Module 1 assignment
 # Overview and Origin
 
 ## Name of Company: 
-Amazon
+*Amazon*
 
 ## Incorporation Date: 
 Amazon was incorporated on July 5, 1994.
 
 ## Founders: 
-Amazon was founded by Jeff Bezos.
+Amazon was founded by *Jeff Bezos*.
 
 ## Idea Genesis: 
-The idea for Amazon came about when Jeff Bezos, a former Wall Street hedge fund executive, realized the internet's potential to become a massive marketplace. Bezos recognized the internet's rapid growth rate and envisioned an online platform where customers could find and purchase almost anything.
+The idea for Amazon came about when *Jeff Bezos*, a former Wall Street hedge fund executive, realized the internet's potential to become a massive marketplace. Bezos recognized the internet's rapid growth rate and envisioned an online platform where customers could find and purchase almost anything.
 
 ## Funding: 
 Amazon has been funded through various sources, including founder's investment, venture capital, IPO, equity financing, debt financing, and cash flow from operations. The exact funding amount is significant, totaling billions of dollars.
