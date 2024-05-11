@@ -1,4 +1,4 @@
-# **ai-case-study**
+# **AI-CASE-STUDY**
 This repository is for the creation of case study for Module 1 assignment
 # Overview and Origin
 
