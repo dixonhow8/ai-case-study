@@ -68,10 +68,6 @@ This would enhance Amazon Prime Video's market share of original programming and
 ## Technologies: 
 Leveraging video compression, encoding, and adaptive bitrate streaming (ABR) technologies would improve video quality.
 
----
-
-*Source: ChatGPT*
-
 ## Core Metrics: 
 Key metrics for success include revenue growth, profitability, market capitalization, customer base, global expansion, and diversification.
 
@@ -93,9 +89,10 @@ Leveraging video compression, encoding, and adaptive bitrate streaming (ABR) tec
 
 - *Title:* [AWS AI and Machine Learning Blog](https://aws.amazon.com/blogs/ai/)
 - *Description:* The AWS AI and Machine Learning Blog features articles, case studies, and technical insights related to AI and machine learning services offered by AWS.
-- *Sample Post:* [Introduction to Amazon SageMaker: A Fully Managed Machine Learning Service](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker/)
+- *Post:* [Introduction to Amazon SageMaker: A Fully Managed Machine Learning Service](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker/)
 - *Date Accessed:* [5/11/2024]
 [Analyzing and Tagging Video for Optimal Ad Targeting and Placement](https://aws.amazon.com/blogs/media/analyzing-and-tagging-video-for-optimal-ad-targeting-and-placement/)
 
+### Reference from ChatGPT
 
-
+*Source: ChatGPT*
