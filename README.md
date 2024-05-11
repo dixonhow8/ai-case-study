@@ -55,7 +55,7 @@ Amazon has experienced significant growth and success since its founding in 1994
 Key metrics for success include revenue growth, profitability, market capitalization, customer base, global expansion, and diversification.
 
 ## Performance Relative to Competitors: 
-Amazon is a global leader in e-commerce, cloud computing, and technology innovation.
+Amazon is a global leader in e-commerce, cloud computing, and technology innovation. 
 
 # Recommendations
 
