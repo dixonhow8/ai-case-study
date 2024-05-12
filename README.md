@@ -79,7 +79,7 @@ Amazon is a global leader in e-commerce, cloud computing, and technology innovat
 # Recommendations
 
 ## Suggested Offerings: 
-I would recommend Amazon offering AIaaS (AI as a Service) and AI-driven Content Creation and Generation.
+I would recommend Amazon offer AIaaS (AI as a Service) and AI-driven Content Creation and Generation.
 
 ## Benefits: 
 # Proposed AI Services Offered by Amazon
