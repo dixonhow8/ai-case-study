@@ -79,7 +79,7 @@ Amazon is a global leader in e-commerce, cloud computing, and technology innovat
 # Recommendations
 
 ## Suggested Offerings: 
-I would recommend Amazon offering AIaaS (AI as a Service), AI-driven Content Creation and Generation, and AI-powered Recommendations and Personalization.
+I would recommend Amazon offering AIaaS (AI as a Service) and AI-driven Content Creation and Generation.
 
 ## Benefits: 
 # Proposed AI Services Offered by Amazon
@@ -90,11 +90,18 @@ AIaaS would allow Amazon to provide AI infrastructure and platforms as a service
 ## AI-driven Content Creation and Generation
 Amazon could develop AI tools for content creation, such as automatic writing, video generation, and music composition, empowering creators and businesses to produce high-quality content more efficiently.
 
-## AI-powered Recommendations and Personalization
-Drawing from their experience with recommendation engines on Amazon.com, they could offer AI-powered recommendation and personalization services to help businesses enhance customer engagement and increase sales.
+# What technologies would this additional product or service utilize and Why
 
-## Technologies: 
-Leveraging video compression, encoding, and adaptive bitrate streaming (ABR) technologies would improve video quality. 
+## AI as a Service (AIaaS)
+- AI as a Service (AIaaS) could utilize Machine Learning (ML) Frameworks, such as TensorFlow, PyTorch, scikit-learn, and Keras, allowing users to train and deploy machine learning models efficiently.
+- Also, AIaaS could leverage Deep Learning frameworks like TensorFlow and PyTorch, which are essential for building and deploying complex neural network models for tasks such as image recognition, natural language processing, and speech recognition.
+- Finally, AIaaS could leverage Cloud Computing, relying heavily on cloud computing infrastructure provided by platforms like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). These platforms offer scalable computing resources, storage, and networking capabilities needed to train and deploy AI models.
+
+## AI-driven Content Creation and Generation
+- AI-driven Content Creation and Generation would leverage Natural Language Processing (NLP). NLP is essential for understanding and generating human-like text. Technologies such as recurrent neural networks (RNNs), long short-term memory networks (LSTMs), and transformers (e.g., GPT, BERT) are commonly used for tasks like text generation, summarization, and language translation.
+- This solution would utilize Reinforcement Learning (RL). RL techniques would be able to be applied to content generation tasks to optimize sequences of actions over time. RL algorithms can learn to generate content that maximizes certain objectives, such as engagement or user satisfaction.
+- Finally, AI-driven Content Creation and Generation could be utilized by Computer Vision. For content creation involving images and videos, computer vision technologies such as convolutional neural networks (CNNs) and image generation models (e.g., DALL-E) can be used to create or modify visual content automatically.
+
 
 ### Reference from AWS Blog:
 
