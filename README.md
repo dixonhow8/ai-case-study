@@ -3,7 +3,7 @@ This repository is for the creation of case study for Module 1 assignment
 # Overview and Origin
 
 ## Name of Company: 
-*Amazon*
+**Amazon**
 
 ## Incorporation Date: 
 Amazon was incorporated on July 5, 1994.
