@@ -98,10 +98,9 @@ Amazon could develop AI tools for content creation, such as automatic writing, v
 - Finally, AIaaS could leverage Cloud Computing, relying heavily on cloud computing infrastructure provided by platforms like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). These platforms offer scalable computing resources, storage, and networking capabilities needed to train and deploy AI models.
 
 ## AI-driven Content Creation and Generation
-- AI-driven Content Creation and Generation would leverage Natural Language Processing (NLP). NLP is essential for understanding and generating human-like text. Technologies such as recurrent neural networks (RNNs), long short-term memory networks (LSTMs), and transformers (e.g., GPT, BERT) are commonly used for tasks like text generation, summarization, and language translation.
-- This solution would utilize Reinforcement Learning (RL). RL techniques would be able to be applied to content generation tasks to optimize sequences of actions over time. RL algorithms can learn to generate content that maximizes certain objectives, such as engagement or user satisfaction.
-- Finally, AI-driven Content Creation and Generation could be utilized by Computer Vision. For content creation involving images and videos, computer vision technologies such as convolutional neural networks (CNNs) and image generation models (e.g., DALL-E) can be used to create or modify visual content automatically.
-
+> AI-driven Content Creation and Generation would leverage Natural Language Processing (NLP). NLP is essential for understanding and generating human-like text. Technologies such as recurrent neural networks (RNNs), long short-term memory networks (LSTMs), and transformers (e.g., GPT, BERT) are commonly used for tasks like text generation, summarization, and language translation.
+> This solution would utilize Reinforcement Learning (RL). RL techniques would be able to be applied to content generation tasks to optimize sequences of actions over time. RL algorithms can learn to generate content that maximizes certain objectives, such as engagement or user satisfaction.
+> Finally, AI-driven Content Creation and Generation could be utilized by Computer Vision. For content creation involving images and videos, computer vision technologies such as convolutional neural networks (CNNs) and image generation models (e.g., DALL-E) can be used to create or modify visual content automatically.
 
 ### Reference from AWS Blog:
 
